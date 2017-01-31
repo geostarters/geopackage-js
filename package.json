@@ -94,7 +94,7 @@
       "android-browser/latest"
     ]
   },
-  "postinstall": "npm install converters/geojson; npm install converters/shapefile; npm install converters/pbf; npm install converters/mbtiles",
+  
 
   "scripts": {
     "test": "istanbul cover  _mocha",
